@@ -1,1 +1,1 @@
-# Generative-AI-Bootcamp-by-Andrew-Brown
+# Generative AI Bootcamp by Andrew Brown
